@@ -1,0 +1,579 @@
+<!DOCTYPE html><html class="no-js " xml:lang="ru" lang="ru"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="Белстат">
+<meta name="description" content="Белстат">
+<link href="../css/font-awesome.css" type="text/css" rel="stylesheet">
+<link href="../css/page_af74e2d0c8180a71858a22fe5de2627d_v1.css" type="text/css" rel="stylesheet">
+<link href="../css/template_7bccba11d8f671a6c96f7f1632d6b14b_v1.css" type="text/css" data-template-style="true" rel="stylesheet">
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="../js/core.min.js"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1717103224','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'6ca263d1d11f188fcbada2fc1526edec'});</script>
+
+
+<script type="text/javascript">BX.setJSList(['/bitrix/components/bitrix/search.title/script.js','/bitrix/templates/.default/components/bitrix/menu/main_menu/script.js','/bitrix/templates/.default/components/bitrix/menu/inner_left_menu/script.js','/bitrix/templates/.default/components/supportby/menu/inner_six_level/script.js','/bitrix/templates/.default/components/bitrix/menu/bottom_menu/script.js','/bitrix/templates/.default/components/bitrix/menu/main_menu_mobile/script.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/belstat/components/bitrix/search.title/404/style.css','/bitrix/templates/.default/components/bitrix/search.title/search/style.css','/bitrix/templates/.default/components/bitrix/menu/top_menu/style.css','/bitrix/templates/.default/components/bitrix/menu/main_menu/style.css','/bitrix/templates/.default/components/bitrix/breadcrumb/main_breadcrumbs/style.css','/bitrix/templates/.default/components/bitrix/menu/inner_left_menu/style.css','/bitrix/templates/.default/components/bitrix/news.list/news_list_inner_small/style.css','/bitrix/templates/.default/components/supportby/menu/inner_six_level/style.css','/bitrix/templates/.default/components/bitrix/menu/bottom_menu/style.css','/bitrix/templates/.default/components/bitrix/news.list/index_links_list/style.css','/bitrix/templates/.default/components/bitrix/search.title/searchmobile/style.css','/bitrix/templates/.default/components/bitrix/menu/main_menu_mobile/style.css','/bitrix/templates/.default/components/bitrix/menu/top_menu_mobile/style.css','/bitrix/templates/.default/components/bitrix/news.list/index_stat_list_2/style.css','/bitrix/templates/belstat/styles.css']);</script>
+
+
+<script type="text/javascript" src="../js/template_2c471ce8b46d70b60ac0b8d25dbd1eee_v1.js"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "fcceac2c5542a0379d5ff96e8b88e4ce"]); _ba.push(["host", "www.belstat.gov.by"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+        <title>Ошибка 404</title>
+        <link rel="SHORTCUT ICON" href="../favicon_3.ico">
+        <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+        <link rel="stylesheet" property="stylesheet" media="all" href="../css/screen.css">
+        <link rel="stylesheet" property="stylesheet" media="all" href="../css/adaptive.css">
+        <link rel="stylesheet" property="stylesheet" media="screen" href="../css/animate.css">
+        <link rel="stylesheet" property="stylesheet" media="screen" href="../css/style.css">
+        <link rel="stylesheet" property="stylesheet" media="screen" href="../css/skin.css">
+        <link rel="stylesheet" property="stylesheet" media="print" href="../css/print.css">
+        <!--    <link rel="stylesheet" property="stylesheet" href="/bitrix/templates/.default/css/bootstrap-datepicker.css">-->
+        <link rel="stylesheet" property="stylesheet" href="../css/datepicker.min.css">
+        <link rel="stylesheet" property="stylesheet" href="../css/sumoselect.min.css">
+                    <link rel="stylesheet" property="stylesheet" href="../css/custom.css">
+                <script src="../js/jquery.min_1.js"></script>
+        <script src="../js/mobile-detect.min.js"></script>
+
+        <!--<script>
+            var md = new MobileDetect(window.navigator.userAgent);
+            var viewport = document.getElementById('viewport');
+            if (md.tablet()) {
+                viewport.setAttribute("content", "width=device-width, initial-scale=1, maximum-scale=1.2, user-scalable=1");
+            }
+        </script>-->
+        <!--[if lte IE 9]>
+        <script type="text/javascript" src="/bitrix/templates/.default/js/html5shiv.min.js"></script>
+        <![endif]-->
+    </head>
+<body>
+<script>
+	var locationHref = window.location.origin + window.location.pathname;
+	var source_link = '<p>Читать полностью: <a href="' + locationHref + '">' + locationHref + '</a></p>';
+</script>
+    <div id="bx_panel_userblock">
+            </div>
+    <header class="l-header">
+                    <div class="wrap">
+            <div class="topline">
+                <div class="b-lang">
+                    <a href="/by/"><span>Бел</span></a>
+                </div>
+                <div class="b-lang">
+                    <a href="/en/"><span>Eng</span></a>
+                </div>
+<a href="?special_version=Y" target="_blank"><img alt="Версия для слабовидящих" title="Версия для слабовидящих" src="blind.png" style="height: 20px; float: right; padding: 5px; margin: 7px 10px 0 40px; border-radius: 10px; background: white;"></a>
+                <div class="b-search">
+                    <div class="search-show"><i class="ico-search"></i></div>
+                        <div>
+	<form action="/search/index.php" class="search" id="title-search">
+        <div class="search-close"><i class="ico-close"><span></span></i></div>
+        <div>
+		<input id="title-search-input" type="search" placeholder="поиск по сайту" name="q" value="" size="40" maxlength="50" autocomplete="off">
+            <div class="search-submit"><i class="ico-search"></i><input name="s" type="submit" value=""></div>
+        </div>
+    </form>
+    </div>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/upload/call-center.png',
+			'CONTAINER_ID': 'title-search',
+			'INPUT_ID': 'title-search-input',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+
+                </div>
+                <div class="region-select">
+                    <div><i class="ico-regions"></i><span>Региональные сайты</span><i class="ico-arrow-down"></i></div>
+                    <ul class="b-related">
+                        <li class="active"><a href="/">Белстат</a></li>
+                        <li><a href="http://minsk-city.belstat.gov.by">ГСУ г.Минска</a></li>
+                        <li><a href="http://minsk.belstat.gov.by">ГСУ Минской обл.</a></li>
+                        <li><a href="http://brest.belstat.gov.by">ГСУ Брестской обл.</a></li>
+                        <li><a href="http://vitebsk.belstat.gov.by">ГСУ Витебской обл.</a></li>
+                        <li><a href="http://gomel.belstat.gov.by">ГСУ Гомельской обл.</a></li>
+                        <li><a href="http://grodno.belstat.gov.by">ГСУ Гродненской обл.</a></li>
+                        <li><a href="http://mogilev.belstat.gov.by">ГСУ Могилёвской обл.</a></li>
+                    </ul>
+                </div>
+
+                
+<ul class="topmenu">
+
+		<li><a href="/obraschenie/elektronnye-obrascheniy/">Обратная связь</a></li>
+		
+		<li><a href="/subscribe/">Подписаться на рассылку</a></li>
+		
+		<li><a href="http://e-respondent.belstat.gov.by/">ЭЛЕКТРОННЫЙ РЕСПОНДЕНТ</a></li>
+		
+
+</ul>
+            </div>
+<div class="h-logo" style="width: 670px; z-index: 1; position: absolute;">
+            <div class="h-logo-img" style="margin-top: 20px"><span><img src="logo-main.png" alt="" style="height: 90px"></span></div>
+            <div class="h-logo-img" style="margin-top: 20px"><span><img src="logo-sub.png" alt="" style="height: 90px;"></span></div>
+            <div class="h-logo-txt" style="margin-top: 10px"><span>Национальный статистический комитет Республики Беларусь</span></div>
+        </div>
+            <div class="h-about" style="width:205px; margin-top:10px;">
+                <div class="h-about-text">
+                    220070, г.Минск, Партизанский&nbsp;проспект,&nbsp;12<br>
+<a href="mailto:belstat@belstat.gov.by">belstat@belstat.gov.by</a><br>
+
+<a href="https://t.me/belstat_by" target="_blank"><i class="ico-tg24"></i></a>
+<span class="print-social">Telegram https://t.me/belstat_by</span>
+
+<a href="https://www.facebook.com/belstat" target="_blank"><i class="ico-fb24"></i></a>
+<span class="print-social">Facebook https://www.facebook.com/belstat</span>
+
+<a href="https://twitter.com/belstat_by" target="_blank"><i class="ico-x24"></i></a>
+<span class="print-social">X https://twitter.com/belstat_by</span>                </div>
+            </div>
+           <div class="graph show" style="left: calc(50% + 200px); width: 25%;">
+                    <i></i>
+    <i></i>
+    <i id="last"></i>
+
+            </div>
+            <div class="h-sert" style="width:140px;">
+                <a href="/upload-belstat/upload-belstat-pdf/o-belstate/sertifikat_stb_iso_9001.pdf" title="Сертификат соответствия" target="_blank"><img alt="Сертификат соответствия" src="stb_iso_9001.png" style="max-height: 90px;"></a>            </div>
+
+            
+
+        </div>
+        <div class="h-menu-container">
+            <div class="submenu-close">X</div>
+            <div class="wrap">
+                
+
+            <ul class="h-menu">
+
+                                <li class="has_submenu"><a class="h-menu__lnk" href="/ofitsialnaya-statistika/">Официальная статистика<i class="ico-arrow-down"></i></a><div class="submenu-container"><div class="submenu"><ul><li><a href="/ofitsialnaya-statistika/osnovnye-pokazateli-po-respublike-belarus/">Основные показатели по Республике Беларусь</a><ul><li><a href="/upload-belstat/upload-belstat-excel/Oficial_statistika/2024/rus_ekspress-informacia_04_2024.xlsx">Основные социально-экономические показатели по Республике Беларусь (.xlsx)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-excel/Oficial_statistika/2024/rus_ekspress-informacia_04_2024.xlsx#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li><li><a href="/upload-belstat/upload-belstat-excel/Oficial_statistika/2024/osep_obl_2404.xlsx">Основные социально-экономические показатели по Республике Беларусь, областям и г.Минску (.xlsx)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-excel/Oficial_statistika/2024/osep_obl_2404.xlsx#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li><li><a target="_blank" href="https://www.belstat.gov.by/ofitsialnaya-statistika/publications/izdania/public_bulletin/index_96971/">Социально-экономическое положение Республики Беларусь</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/">Демографическая и социальная статистика</a><ul><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/naselenie-i-migratsiya/">Население и миграция</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/trud/">Труд</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/obrazovanie/">Образование</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/zdravoohranenie_2/">Здравоохранение</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/uroven-zhizni-naseleniya/">Доходы и потребление</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/sotsialnaya-zaschita-nseleniya/">Социальная защита</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/zhilischnye-usloviya/">Жилищный фонд</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/pravonarusheniya/">Правосудие и правонарушения</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/ispolzovanie-sutochnogo-vremeni/">Использование времени</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/kultura-sport-sredstva-massovoy-informatsii/">Культура, спорт, средства массовой информации</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/">Экономическая статистика</a><ul><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/natsionalnye-scheta/">Национальные счета</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/strukturnaja_statistika/">Структурная статистика, включая статистику малого и среднего предпринимательства</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/biznes-demografiya/">Бизнес-демография</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/selskoe-hozyaistvo/">Сельское, лесное и рыбное хозяйство</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/promyshlennost/">Промышленность</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/energeticheskaya-statistika/">Энергетика</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/investitsii-i-stroitelstvo/">Строительство и инвестиции в основной капитал</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/transport/">Транспорт</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/finansy-organizatsiy/">Финансы организаций</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/vnytrennia-torgovlya/">Внутренняя торговля и общественное питание</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/turizm/">Туризм</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/prochie-uslugi/">Прочие услуги</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/tseny/">Цены</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/stoimost-rabochey-sily/">Стоимость рабочей силы</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/nauka-i-innovatsii/">Наука и инновации</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/svyaz-i-informatsionno-kommunikatsionnye-tekhnologii/">Телекоммуникационная деятельность, почтовая и курьерская деятельность</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/inostrannye-investitsii/">Иностранные инвестиции</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/vneshnyaya-torgovlya/">Внешняя торговля</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/">Многоотраслевая статистика</a><ul><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/okruzhayuschaya-sreda/">Окружающая среда</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/statistika-malykh-territoriy/">Статистика малых территорий</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/uroven-zhizni-naseleniya/">Уровень жизни населения</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/gendernaya-statistika-i-statistika-otdelnykh-grupp-naseleniya/">Гендерная статистика и статистика отдельных групп населения</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/informatsionno-telekommunikatsionnye-tekhnologii/">Информационно-коммуникационные технологии</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/statistika-predprinimatelstva/">Статистика предпринимательства</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/perepis-naseleniya/">Перепись населения</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/pokazateli-dostizheniya-tseley-ustoychivogo-razvitiya/">Показатели достижения Целей устойчивого развития</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/polzovatelyam/">Пользователям</a><ul><li><a target="_blank" href="https://docs.google.com/forms/d/1lbDHtQW851hY3XeDPDis4tPCnigK2BXxIqC5r5GPrSg/viewform">Анкета пользователя</a></li><li><a href="/ofitsialnaya-statistika/polzovatelyam/poryadok-rasprostraneniya-ofitsialnoy-statisticheskoy-informatsii/">Порядок распространения официальной статистической информации</a></li><li><a href="/calendar/">Календарь пользователя</a></li><li><a target="_blank" href="https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/oficial_statistika/2024/Res_anketa_polsovatela.pdf">Результаты Анкеты пользователя</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/publications/">Публикации</a><ul><li><a href="/ofitsialnaya-statistika/publications/izdania/">Статистические издания</a></li><li><a href="/ofitsialnaya-statistika/publications/katalog/">Каталог статистических изданий</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/ofitsialnaya-statisticheskaya-informatsiya-gosudarstvennykh-organov-i-organizatsiy-respubliki-belaru/">Официальная статистическая информация государственных органов и организаций Республики Беларусь</a><ul><li><a target="_blank" href="http://www.mas.by/ru/otchet_necent/">Министерство архитектуры и строительства Республики Беларусь</a></li><li><a target="_blank" href="http://www.minzdrav.gov.by/ru/dlya-spetsialistov/statisticheskaya-otchetnost/index.php">Министерство здравоохранения Республики Беларусь</a></li><li><a target="_blank" href="https://kultura.by/ru/ofic_statistika-ru/">Министерство культуры Республики Беларусь</a></li><li><a target="_blank" href="http://www.mlh.by/documents/">Министерство лесного хозяйства Республики Беларусь</a></li><li><a target="_blank" href="https://edu.gov.by/statistics/">Министерство образования Республики Беларусь</a></li><li><a target="_blank" href="http://www.minpriroda.gov.by/ru/statistika/">Министерство природных ресурсов и окружающей среды Республики Беларусь</a></li><li><a target="_blank" href="http://www.mpt.gov.by/ru/oficialnaya-statisticheskaya#">Министерство связи и информатизации Республики Беларусь</a></li><li><a target="_blank" href="https://mintrans.gov.by/ru/statistika/">Министерство транспорта и коммуникаций Республики Беларусь</a></li><li><a target="_blank" href="https://mintrud.gov.by/ru/inie-voprosi-ru">Министерство труда и социальной защиты Республики Беларусь</a></li><li><a target="_blank" href="https://minfin.gov.by/ru/gfs/">Министерство финансов Республики Беларусь</a></li><li><a target="_blank" href="http://energoeffekt.gov.by/statistics">Государственный комитет по стандартизации Республики Беларусь</a></li><li><a target="_blank" href="http://www.nbrb.by/statistics/MonetaryStat/InsuranceOrgSurvey">Национальный банк Республики Беларусь</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/bazy-dannyh/">Базы данных</a><ul><li><a target="_blank" href="https://census.belstat.gov.by/">Итоговые данные переписей населения Республики Беларусь</a></li><li><a target="_blank" href="http://dataportal.belstat.gov.by/">Информационно-аналитическая система распространения официальной статистической информации</a></li><li><a target="_blank" href="http://sdgplatform.belstat.gov.by/sites/belstatfront/home.html">Национальная платформа представления отчетности по показателям Целей устойчивого развития (ЦУР)</a></li><li><a target="_blank" href="http://www.childrenportal.belstat.gov.by/">Универсальный веб-портал статистических данных о детях</a></li><li><a target="_blank" href="http://gender.belstat.gov.by/home/">Веб-портал "Гендерная статистика"</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/">ССРД МВФ</a><ul><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/natsionalnaya-stranitsa-svodnyh-dannyh/">Национальная страница сводных данных</a></li><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/tablitsy-svodnyh-dannyh/">Таблицы сводных данных</a></li><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/metadannye/">Метаданные</a></li><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/kalendar-vypuska-dannyh/">Календарь выпуска данных</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/indikatory-dostoynogo-truda/">Индикаторы достойного труда</a><ul><li><a href="/upload-belstat/upload-belstat-pdf/oficial_statistika/Ob_ind_dost_truda.pdf">Об индикаторах достойного труда (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-word/Oficial_statistika/Perechen_indikatorov_dostojnogo_truda-230713.doc">Перечень индикаторов достойного труда (.doc)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/Oficial_statistika/Perechen_indikatorov_dostojnogo_truda-230713.doc#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li><li><a href="/upload-belstat/upload-belstat-word/Oficial_statistika/Perech_pokaz_DT-230713.doc">Перечень ключевых показателей системы индикаторов достойного труда (.doc)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/Oficial_statistika/Perech_pokaz_DT-230713.doc#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li></ul></li></ul></div></div></li><li class="has_submenu"><a class="h-menu__lnk" href="/o-belstate_2/">О Белстате<i class="ico-arrow-down"></i></a><div class="submenu-container"><div class="submenu"><ul><li><a href="/o-belstate_2/sistema-belstata/">Система Белстата</a><ul><li><a href="/o-belstate_2/sistema-belstata/tsentralnyi-apparat-belstata_4/">Структура центрального аппарата Белстата</a></li><li><a href="/o-belstate_2/sistema-belstata/rukovodstvo-belstata/">Руководство Белстата</a></li><li><a href="/o-belstate_2/sistema-belstata/territorialnye-organy-gosudarstvennoi-statistiki/">Территориальные органы государственной статистики</a></li><li><a href="/o-belstate_2/sistema-belstata/gosudarstvennye-organizatsii-podchinennye-belstatu/">Государственные организации, подчиненные Белстату</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/">Правовые основы государственной статистики Республики Беларусь</a><ul><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/zakon-respubliki-belarus-o-gosudarstvennoi-statist/">Закон Республики&nbsp;Беларусь «О&nbsp;государственной статистике»</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/polozhenie-o-natsionalnom-statisticheskom-komitete/">Положение о Белстате</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/rukovodstvo-po-natsionalnoi-modeli-proizvodstva-ofitsialnoi-statisticheskoi-informatsii/">Руководство по национальной модели производства официальной статистической информации</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/privacy_policy-240314.pdf">Политика по обеспечению статистической конфиденциальности (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/politika_rasprosrtraneniya_osi.pdf">Политика распространения официальной статистической информации (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/politica_peresm.pdf">Политика пересмотра официальной статистической информации (.pdf)</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/instruktsiya-o-poryadke-predstavleniya-pervichnykh-statisticheskikh-dannykh/">Инструкция о порядке представления первичных статистических данных</a></li><li><a target="_blank" href="https://www.belstat.gov.by/Отчет о выполнении Плана мероприятий по реализации Стратегии развития государственной статистики">Отчет о выполнении Плана мероприятий по реализации Стратегии развития государственной статистики (.pdf)</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/mezhvedomstvennyy-sovet-po-gosudarstvennoy-statistike/">Межведомственный совет по государственной статистике</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/informatsionnoe-vzaimodeystvie-s-gosudarstvennymi-organami/">Информационное взаимодействие с государственными органами</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/pravovoy-monitoring-v-otnoshenii-zakona-respubliki-belarus-o-gosudarstvennoy-statistike/">Правовой мониторинг в&nbsp;отношении Закона&nbsp;Республики&nbsp;Беларусь «О&nbsp;государственной&nbsp;статистике»</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/pravovoy-monitoring-postanovleniya-natsionalnogo-statisticheskogo-komiteta-respubliki-belarus-ob-utv/">Правовой мониторинг в отношении постановления Национального статистического комитета Республики Беларусь от 28 августа 2015 г. № 100 «Об утверждении Инструкции о порядке представления первичных статистических данных»</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/informatsiya-o-provedenii-publichnogo-obsuzhdeniya-proekta-zakona-respubliki-belarus-ob-izmenenii-za/">Информация о&nbsp;проведении публичного обсуждения проекта Закона Республики&nbsp;Беларусь «Об изменении Закона Республики&nbsp;Беларусь «О государственной статистике»</a></li><li><a href="/ofitsialnaya-statistika/polzovatelyam/poryadok-rasprostraneniya-ofitsialnoy-statisticheskoy-informatsii/">Порядок распространения официальной статистической информации</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/planirovanie-i-koordinatsiya-natsionalnoy-statisticheskoy-sistemy/">Планирование и координация национальной статистической системы</a><ul><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/Stategija_2025-221122.pdf">Стратегия развития государственной статистики на период до 2025 года (.pdf)</a></li><li><a target="_blank" href="/upload-belstat/upload-belstat-pdf/o-belstate/Programma_2024.pdf">Программа статистических работ на&nbsp;2024&nbsp;год (.pdf)</a></li><li><a href="/o-belstate_2/planirovanie-i-koordinatsiya-natsionalnoy-statisticheskoy-sistemy/plan-nauchno-metodologicheskoy-raboty-belstata/">План научно-методологической работы Белстата на 2024 год</a></li><li><a href="/o-belstate_2/planirovanie-i-koordinatsiya-natsionalnoy-statisticheskoy-sistemy/nauchno-metodologicheskiy-sovet-belstata/">Научно-методологический совет Белстата</a></li><li><a href="/o-belstate_2/planirovanie-i-koordinatsiya-natsionalnoy-statisticheskoy-sistemy/prikaz-belstata-o-vedenii-gosudarstvennoy-statistiki-v-2022-godu/">Приказ Белстата «О ведении государственной статистики в 2024 году»</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/sistema-menedzhmenta-kachestva/">Система менеджмента качества</a><ul><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/Missia_Bidenie_2021.pdf">Миссия. Видение (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/Politika-kachestva_2024.pdf">Политика в области качества (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/RK_SMK_04-2022.pdf">Руководство по качеству (.pdf)</a></li><li><a target="_blank" href="https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/o-belstate/sertifikat_stb_iso_9001.pdf">Сертификат соответствия системы менеджмента качества требованиям СТБ&nbsp;ISO&nbsp;9001-2015</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/">Международное сотрудничество</a><ul><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/mezhdunarodnye-dogovora-o-sotrudnichestve/">Международные договоры</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/statisticheskii-sovet">Статистический совет Белстата и Росстата</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/mezhdunarodnye-meropriyatiya/">Международные события</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/otsenki-mezhdunarodnyh-ekspertov/">Оценки международных экспертов</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/sotrudnichestvo-v-ramkakh-evraziyskogo-ekonomicheskogo-soyuza/">Сотрудничество в рамках Евразийского экономического союза</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/mezhdunarodnye-proekty/">Международные проекты</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/">История белорусской государственной статистики</a><ul><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/etapy/">Исторические даты развития белорусской государственной статистики</a></li><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/istoricheskii-ocherk-stanovleniya-i-razvitiya-belorusskoi-gosudarstvennoi-statistiki/">Исторический очерк становления и развития белорусской государственной статистики  </a></li><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/rukovoditeli-tsentralnyh-organov-belorusskoi-gosudarstvennoi-statistiki/">Руководители центральных органов белорусской государственной статистики</a></li><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/istoriya-statistiki/">Лента времени белорусской статистики</a></li><li><a target="_blank" href="https://www.belstat.gov.by/ofitsialnaya-statistika/publications/izdania/public_compilation/index_17744/">Статистика Беларуси</a></li><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/100-let-organam-gosudarstvennoy-statistiki-belarusi/">100 лет органам государственной статистики Беларуси</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/novosti-i-meropriyatiya/">Новости и мероприятия</a><ul><li><a href="/o-belstate_2/novosti-i-meropriyatiya/novosti/">Новости</a></li><li><a href="/o-belstate_2/novosti-i-meropriyatiya/meropriyatiya/">Мероприятия</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/vakansii/">Вакансии </a></li></ul><ul><li><a href="/o-belstate_2/adres-i-kontaktnaya-informatsiya/">Контакты (адрес, режим работы и контактная информация)</a></li></ul><ul><li><a href="/o-belstate_2/links/">Полезные ссылки</a><ul><li><a href="/o-belstate_2/links/statsluzhby/">Статистические службы иностранных государств и международные организации</a></li><li><a target="_blank" href="http://www.catalog.gov.by/">Информационные ресурсы Республики Беларусь</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/zakupki/">Закупки</a></li></ul><ul><li><a href="/o-belstate_2/god-kachestva/">Год качества</a></li></ul></div></div></li><li class="has_submenu"><a class="h-menu__lnk" href="/metodologiya/">Методология<i class="ico-arrow-down"></i></a><div class="submenu-container"><div class="submenu"><ul><li><a href="/metodologiya/metodiki-po-formirovaniyu-i-raschetu-statistichesk/">Методики по формированию и расчету статистических показателей</a></li></ul><ul><li><a href="/metodologiya/instruktsii-po-organizatsii-i-provedeniyu-gosudars/">Инструкции по организации и проведению государственных статистических наблюдений</a></li></ul><ul><li><a href="/metodologiya/kratkiy-glossariy-statisticheskikh-terminov/">Краткий глоссарий статистических терминов</a></li></ul><ul><li><a href="/metodologiya/metodologicheskie-polozheniya-po-statistike/">Методологические положения по статистике</a></li></ul><ul><li><a href="/metodologiya/belstat-obyasnit/">Белстат объяснит</a><ul><li><a href="/metodologiya/belstat-obyasnit/ob-inflyatsii/">Об инфляции</a></li><li><a href="/metodologiya/belstat-obyasnit/o-sredney-zarabotnoy-plate/">О средней заработной плате</a></li><li><a href="/metodologiya/belstat-obyasnit/zachem-nuzhna-perepis-naseleniya/">О переписи населения</a></li></ul></li></ul></div></div></li><li class="has_submenu"><a class="h-menu__lnk" href="/klassifikatory/">Классификаторы<i class="ico-arrow-down"></i></a><div class="submenu-container"><div class="submenu"><ul><li><a href="/klassifikatory/obschaya-informatsiya-o-klassifikatorah/">Общая информация о классификаторах</a></li></ul><ul><li><a href="/klassifikatory/perechen-klassifikatorov-ispolzuemyh-organami-gosudarstvennoi-statistiki/">Перечень классификаторов, используемых органами государственной статистики</a></li></ul><ul><li><a href="/klassifikatory/informatsiya-o-provodimykh-rabotakh-po-obshchegosudarstvennym-klassifikatoram/">Информация о&nbsp;проводимых работах по&nbsp;общегосударственным классификаторам</a></li></ul><ul><li><a href="/klassifikatory/statisticheskie-klassifikatory/">Статистические классификаторы</a><ul><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-00-001-2020-organy-gosudarstvennoy-vlasti-i-upravleniya-skogu/">СК&nbsp;00.001-2020 "Органы государственной власти и управления" (СКОГУ) (с изменениями) (не применяется с 1 января 2023 г.)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-00-007-2015-institutsionalnye-edinitsy-po-sektoram-ekonomiki-kies-s-izmeneniyami/">CK 00.007-2015 "Институциональные единицы по секторам экономики" (КИЕС) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-00-010-2017/">СК 00.010-2017 “Государственная статистическая деятельность” (КСД)  (с изменениями)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/SK_00_013_2022_.docx">СК 00.013-2022 “Основные промышленные группы” (СКОПГ)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/klassifikator/SK_00_013_2022_.docx#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-06-009-2016-prichiny-smerti-skps/">СК 06.009-2016 "Причины смерти" (СКПС) (с изменениями)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/SK_07_008_2020.doc">СК 07.008-2020 "Расходы домашних хозяйств" (СКРДХ) (.doc)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/klassifikator/SK_07_008_2020.doc#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/statisticheskii-klassifikator-sk-06-002-2015-selskohozyaistvennaya-produktsiya-skshp-vvoditsya-v-deistvie/">СК 21.002-2015 "Сельскохозяйственная продукция" (СКСХП) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-05-006-2015/">CK 25.006-2015 "Промышленная продукция" (СКПП) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-32-003-2019-tovary-optovoy-torgovli-sktot/">СК 32.003-2019 "Товары оптовой торговли" (СКТОТ) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-33-004-2020-tovary-roznichnoy-torgovli-sktrt-doc/">CK 33.004-2020 "Товары розничной торговли" (СКТРТ) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/statisticheskii-klassifikator-sk-27-005-2015-platnye-uslugi-naseleniyu-skpun-vvodittsya-v-deistvie-s-29-yanvarya-2016-g/">СК 36.005-2015 "Платные услуги населению" (СКПУН) (с изменениями)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/CK_45_012_2022.docx">CK 45.012-2022 «Виды услуг внешней торговли» (ВУВТ)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/klassifikator/CK_45_012_2022.docx#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/sk_55.011_2021.doc">СК 55.011-2021 "Виды природоохранной деятельности" (СКПД) (.doc)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/klassifikator/sk_55.011_2021.doc#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li></ul></li></ul><ul><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/">Общегосударственные классификаторы Республики Беларусь</a><ul><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/okrb-002-2019-formy-i-vidy-sobstvennosti-okfs/">ОКРБ 002-2019 "Формы и виды собственности" (ОКФС)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/okrb-004-2014-organy-gosudarstvennoy-vlasti-i-upravleniya-okogu/">ОКРБ 004-2014 "Органы государственной власти и управления" (ОКОГУ)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/obschegosudarstvennyi-klassifikator-okrb-005-2011-vidy-ekonomicheskoi-deyatelnosti/">ОКРБ 005-2011 "Виды экономической деятельности" (ОКЭД)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/obschegosudarstvennyi-klassifikator-respubliki-belarus-okrb-007-2012-klassifikator-produktsii-po-vidam-ekonomicheskoi-deyatelnosti-okp-rb/">ОКРБ 007-2012 "Классификатор продукции по видам экономической деятельности" (ОКП РБ)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/strany-mira-oksm/">ОКРБ 017-99 "Страны мира" (ОКСМ)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/okrb-019-2013-organizatsionno-pravovye-formy-okopf/">ОКРБ 019-2013 "Организационно-правовые формы" (ОКОПФ)</a></li><li><a target="_blank" href="http://www.belstat.gov.by/obraschenie/elektronnye-obrascheniy/">Задать вопрос о классификации видов экономической деятельности</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/telefony-dlya-konsultatsiy-po-voprosam-opredeleniya-vida-ekonomicheskoy-deyatelnosti-i-statistichesk/">Телефоны для получения разъяснений по вопросам определения кодов видов экономической деятельности и применения общегосударственных классификаторов для статистических целей</a></li></ul></li></ul><ul><li><a href="/klassifikatory/perekhodnye-klyuchi-sobiratelnye-gruppirovki/">Переходные ключи, собирательные группировки</a><ul><li><a href="/klassifikatory/perekhodnye-klyuchi-sobiratelnye-gruppirovki/perekhodnye-klyuchi-okrb-005-2011-okrb-005-2006/">Переходные ключи от Общегосударственного классификатора Республики Беларусь ОКРБ 005-2011 "Виды экономической деятельности" к Общегосударственному классификатору Республики Беларусь ОКРБ 005-2006 "Виды экономической деятельности" (с изменениями)</a></li><li><a target="_blank" href="https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/klassifikatory/sobir.-grup_OKED005-2011_izm2.pdf">Собирательные группировки по видам экономической деятельности в соответствии с Общегосударственным классификатором Республики Беларусь ОКРБ 005-2011 "Виды экономической деятельности" (.pdf)</a></li><li><a target="_blank" href="https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/klassifikatory/sobir_grupp_TNVED_EAES-221219.pdf">Собирательные группировки товаров в соответствии с единой Товарной номенклатурой внешнеэкономической деятельности Евразийского экономического союза (.pdf)</a></li><li><a target="_blank" href="http://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/klassifikatory/sobir_grupp_TNVED_IKT-221219.pdf">Собирательные группировки товаров и услуг сферы ИКТ для статистики внешней торговли товарами, внешней торговли услугами (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/PK_OKFS-200401.docx">Переходные ключи от&nbsp;общегосударственного классификатора Республики&nbsp;Беларусь ОКРБ&nbsp;002-2019 "Формы и&nbsp;виды собственности" к&nbsp;общегосударственному классификатору Республики&nbsp;Беларусь ОКРБ&nbsp;002-99 "Формы собственности" (.docx)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/klassifikator/PK_OKFS-200401.docx#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li></ul></li></ul></div></div></li><li class="has_submenu"><a class="h-menu__lnk" href="/informatsiya-dlya-respondenta/">Респондентам<i class="ico-arrow-down"></i></a><div class="submenu-container"><div class="submenu"><ul><li><a href="/informatsiya-dlya-respondenta/gosudarstvennye-statisticheskie-nablyudeniya/">Государственные статистические наблюдения</a><ul><li><a href="/informatsiya-dlya-respondenta/gosudarstvennye-statisticheskie-nablyudeniya/formy-gosudarstvennyh-statisticheskih-nablyuden_2/">Бланки форм государственной статистической отчетности, указания по их заполнению, постановления</a></li><li><a href="/informatsiya-dlya-respondenta/gosudarstvennye-statisticheskie-nablyudeniya/sovershenstvovanie-form-gosudarstvennyh-statistich/">Совершенствование форм государственных статистических наблюдений</a></li></ul></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/vnov-zaregistrirovannym-organizatsim/">Информация для вновь созданных организаций</a></li></ul><ul><li><a href="/respondent-calendar/">Календарь респондента</a></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/tipovye-perechni-form-tsentralizovannykh-gosudarstvennykh-statisticheskikh-nablyudeniy/">Типовые перечни форм централизованных государственных статистических наблюдений</a></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/elektronnaya-otchetnost/">Электронная отчетность</a><ul><li><a href="/informatsiya-dlya-respondenta/elektronnaya-otchetnost/elektronnyy-respondent-on-line/">«Электронный респондент» онлайн</a></li><li><a href="/informatsiya-dlya-respondenta/elektronnaya-otchetnost/vopros-otvet/">Вопрос-Ответ</a></li><li><a href="/informatsiya-dlya-respondenta/elektronnaya-otchetnost/modul-distantsionnoy-podderzhki-respondentov/">Модуль дистанционной поддержки респондентов</a></li></ul></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/">Выборочные обследования</a><ul><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-domashnih-hozyaistv-po-urovnyu-zhizni/">Выборочное обследование домашних хозяйств по уровню жизни</a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-lichnyh-podsobnyh-hozyaistv-grazhdan-postoyanno-prozhivayuschih-v-selskoi-mestnosti/">Выборочное обследование личных подсобных хозяйств граждан, постоянно проживающих в сельской местности</a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-domashnikh-khozyaystv-v-tselyakh-izucheniya-ispolzovaniya-sutochnogo-vremen/">Выборочное обследование домашних хозяйств в целях изучения использования суточного фонда времени населением</a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/mnogoindikatornoe-klasternoe-obsledovanie-po-otsenke-polozheniya-detei-i-zhenschin/">Многоиндикаторное кластерное обследование для оценки положения детей и женщин </a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-domashnikh-khozyaystv-v-tselyakh-kompleksnoy-otsenki-polozheniya-lits-s-ogr/">Выборочное обследование домашних хозяйств в целях комплексной оценки положения лиц с ограниченными возможностями</a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-domashnikh-khozyaystv-v-tselyakh-izucheniya-problem-zanyatosti-naseleniya/">Выборочное обследование домашних хозяйств в целях изучения проблем занятости населения</a></li></ul></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/kriterii-otsenki-stepeni-riska/">Критерии оценки степени риска</a><ul><li><a href="/upload-belstat/upload-belstat-word/Respondent/№_39_от_15.02.2018.docx">Приказ Национального статистического комитета Республики Беларусь от 15 февраля 2018 г. № 39 "Об утверждении критериев оценки степени риска для отбора проверяемых субъектов при проведении выборочной проверки" (.docx)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/Respondent/№_39_от_15.02.2018.docx#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li><li><a href="/upload-belstat/upload-belstat-word/Respondent/Kriterii_2023.docx">Критерии оценки степени риска для отбора проверяемых субъектов  при проведении выборочной проверки (.docx)</a><a class="docviewer" style="margin-left:5px" target="_blank" href="/viewer/?doclink=https://www.belstat.gov.by/upload-belstat/upload-belstat-word/Respondent/Kriterii_2023.docx#1"><i class="fa fa-file" aria-hidden="true"><span>просмотр</span></i></a></li></ul></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/kontaktnaya-informatsiya/">Контактная информация</a><ul><li><a href="/informatsiya-dlya-respondenta/kontaktnaya-informatsiya/kontaktnaya-informatsiya-po-tekhnicheskoy-podderzhke/">по технической поддержке (настройка и функционирование программного обеспечения)</a></li><li><a href="/informatsiya-dlya-respondenta/kontaktnaya-informatsiya/kontaktnaya-informatsiya-po-metodologicheskoy-podderzhke/">по методологической поддержке (составление и сроки предоставления отчетов, контроль в программном обеспечении "Электронный респондент")</a></li></ul></li></ul></div></div></li><li class="has_submenu"><a class="h-menu__lnk" href="/obraschenie/">Обращения<i class="ico-arrow-down"></i></a><div class="submenu-container"><div class="submenu"><ul><li><a href="/obraschenie/nomera-telefonov-goryachih-linii-belstata-i-teritorialnyh-organov-statistiki/">Нoмeрa тeлeфoнoв "гoрячих линий", телефонов доверия и справочных служб</a></li></ul><ul><li><a href="/obraschenie/grafiki-provedeniya-pryamyh-telefonnyi-linii/">Графики проведения прямых телефонных линий</a><ul><li><a href="/obraschenie/grafiki-provedeniya-pryamyh-telefonnyi-linii/grafiki-provedeniya-pryamyh-telefonnyi-linii-predsedatelem-natsionalnogo-statisticheskogo-komiteta-respubliki-belarus-i-ego-zamestitelyami/">График проведения прямых телефонных линий Председателем Национального статистического комитета Республики Беларусь и его заместителями</a></li><li><a href="/obraschenie/grafiki-provedeniya-pryamyh-telefonnyi-linii/grafik-provedeniya-pryamykh-telefonnykh-liniy-rukovoditelyami-strukturnykh-podrazdeleniy/">График проведения прямых телефонных линий руководителями структурных подразделений Белстата</a></li></ul></li></ul><ul><li><a href="/obraschenie/elektronnye-obrascheniy/">Электронные обращения</a></li></ul><ul><li><a href="/obraschenie/perechen-administrativnyh-protsedur/">Перечень административных процедур, осуществляемых по заявлениям граждан</a></li></ul><ul><li><a href="/obraschenie/poryadok-rassmotreniya-obraschenii-grazhdan-v-tom-chisle-individualnyh-predprinimatelei-i-yuridicheskih-lits/">Порядок рассмотрения обращений граждан, в том числе индивидуальных предпринимателей, и юридических лиц</a></li></ul><ul><li><a href="/obraschenie/poryadok-lichnogo-priema-grazhdan-v-tom-chisle-individualnyh-predprinimatelei-ih-predstavitelei-predstavitelei-yuridicheskih-lits-rukovodstvom-belstata/">Порядок личного приема граждан, в том числе индивидуальных предпринимателей, их представителей, представителей юридических лиц</a></li></ul><ul><li><a href="/obraschenie/grafik-priema-grazhdan-rukovodstvom-belstata/">График  личного приема граждан, в том числе индивидуальных предпринимателей, их представителей, представителей юридических лиц руководством Белстата</a></li></ul></div></div></li><li class=""><a class="" href="/o-belstate_2/adres-i-kontaktnaya-informatsiya/">Контакты</a>
+            </li></ul>
+
+            
+        
+
+            </div>
+        </div>
+    </header>
+
+    <div class="js-up-down">
+        <div class="js-up-down__container">
+            <a class="scrolling-btn js-up" href="#">
+                <svg class="icon-svg">
+                    <use xlink:href="../fonts/sprite.svg#icon-arrow-up"></use>
+                </svg>
+            </a>
+            <a class="scrolling-btn js-down" href="#">
+                <svg class="icon-svg">
+                    <use xlink:href="../fonts/sprite.svg#icon-arrow-down"></use>
+                </svg>
+            </a>
+        </div>
+    </div>
+
+<div class="wrap">
+    <div class="layout">
+    <div class="call-banner mob-call-banner">
+
+        <img alt="Колл-центр" src="call-center.png">    </div>
+
+<div class="backnav">
+
+				
+				<a href="#">Главная</a>
+			</div>    <div class="l-wrap">
+    <aside class="l-aside">
+
+        
+            
+
+        
+        <div class="news-list news-list_small">
+    <div class="b-header"></div>
+                <div class="news-item">
+            <div class="news-header"> <a href="/upload-belstat/upload-belstat-pdf/oficial_statistika/statobzor-deti-2024.pdf">Статистический обзор к Международному дню защиты детей</a></div>
+            <p>                    <i class="date">30.05.2024</i>
+                                </p>
+        </div>
+
+
+            <div class="news-item">
+            <div class="news-header"> <a href="https://www.belstat.gov.by/o-belstate_2/novosti-i-meropriyatiya/meropriyatiya/meropriyatiya-2024/ob-uchastii-i-v-medvedevoy-v-zasedanii-soveta-rukovoditeley-statisticheskikh-sluzhb-SNG-240529/">Об участии И.В.Медведевой в совещании «Развитие статистики труда с учетом решений 21-й Международной конференции статистиков труда» и заседании Совета руководителей статистических служб государств – участников СНГ</a></div>
+            <p>                    <i class="date">29.05.2024</i>
+                                </p>
+        </div>
+
+
+            
+</div>
+
+<div class="news-list-small_footer">
+    	<a href="/o-belstate_2/novosti-i-meropriyatiya/novosti/" class="button" title="Все новости">Все новости</a>
+</div>
+
+
+
+
+
+
+
+
+        <div class="r-block">
+            <dl class="dl-list">
+                <dt><a href="https://belstat.gov.by/respondent-calendar/" class="link-ico"><i class="ico-calendar"></i><span>Календарь респондента</span></a></dt>
+                <dt><a href="/calendar/" class="link-ico"><i class="ico-day"></i><span>Календарь пользователя</span></a>
+                </dt>
+                <dt><a target="_blank" href="https://docs.google.com/forms/d/1lbDHtQW851hY3XeDPDis4tPCnigK2BXxIqC5r5GPrSg/viewform" class="link-ico"><i class="ico-form"></i><span>Анкета пользователя</span></a></dt>
+            </dl>
+            <footer class="dl-footer"><a target="_blank" href="https://docs.google.com/forms/d/1lbDHtQW851hY3XeDPDis4tPCnigK2BXxIqC5r5GPrSg/viewform" class="button">Пройти опрос</a></footer>
+        </div>
+
+    </aside>
+    <div class="l-main default-content">
+            
+                        <h1>Ошибка 404</h1>
+                <h2>Страница не найдена</h2>
+<div class="choose-search">Воспользуйтесь <a href="/search/">поиском</a> или главным меню.</div>
+
+	<form action="/search/index.php" class="search">
+        <div class="search-close"><i class="ico-close"><span></span></i></div>
+        <div>
+		<input id="title-search-input" type="search" placeholder="поиск по сайту" name="q" value="" size="40" maxlength="50" autocomplete="off">
+            <div class="search-submit"><i class="ico-search"></i><input name="s" type="submit" value=""></div>
+        </div>
+    </form>
+
+
+<!--show-->
+<a class="print hide-print" href="/bitrix/urlrewrite.php">Версия для печати</a>
+<p class="print-copyright">© Национальный статистический комитет Республики Беларусь.
+    При использовании информации ссылка на Национальный статистический комитет Республики Беларусь является
+    обязательной.</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<footer class="l-footer">
+    <div class="wrap">
+        
+    <ul class="f-links">
+
+                                <li><a href="/o-belstate_2/vakansii/"><i class="ico-check"></i><span>Вакансии</span></a></li>
+        
+                                <li><a href="/obraschenie/perechen-administrativnyh-protsedur/"><i class="ico-check"></i><span>Административные процедуры</span></a></li>
+        
+                                <li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/"><i class="ico-check"></i><span>Стандарты</span></a></li>
+        
+                                <li><a target="_blank" href="http://calculator.belstat.gov.by/"><i class="ico-check"></i><span>Калькулятор персональной инфляции</span></a></li>
+        
+                                <li><a href="/o-belstate_2/links/"><i class="ico-check"></i><span>Полезные ссылки</span></a></li>
+        
+                                <li><a href="/map/"><i class="ico-check"></i><span>Карта сайта</span></a></li>
+        
+                                <li><a href="/o-belstate_2/zakupki/"><i class="ico-check"></i><span>Закупки</span></a></li>
+        
+        
+    </ul>
+    </div>
+    <div class="wrap">
+<span class="f-menu" style="text-align: right; ">
+<a href="http://www.belstat.gov.by/ofitsialnaya-statistika/polzovatelyam/poryadok-rasprostraneniya-ofitsialnoy-statisticheskoy-informatsii/" style="color: #d6e78b">Информация, размещенная на сайте, является общедоступной. <br>
+ При ее использовании ссылка на источник обязательна.</a>
+        </span>
+        <div class="copy">
+            <div class="copy-logo" style="display: none;"><img src="logo-rb.png" alt="">
+            </div>
+            <div class="copy-text" style="max-width: 650px; font-size: 16px;"><br>
+© Национальный статистический комитет Республики Беларусь, 1998-2024<br><br>
+</div>
+        </div>
+    </div>
+    <div class="wrap">
+    <div class="s-slider__wrap">
+        <div class="s-slider">
+                        <a href="http://www.president.gov.by/" class="s-slider__item" target="_blank"><img src="b22f2a767be50da2b05b173f645c199a.png" alt=""></a>
+                        <a href="http://www.government.by/" class="s-slider__item" target="_blank"><img src="a2c07931da77afb59f9590abcaca9ca1.png" alt=""></a>
+                        <a href="http://www.pravo.by/" class="s-slider__item" target="_blank"><img src="1d7cf86a72efd25c9edd4267d3a70c17.png" alt=""></a>
+                        <a href="https://forumpravo.by" class="s-slider__item" target="_blank"><img src="t2wh7wtli719qdkmrclht9vpu51mjtkq.jpg" alt=""></a>
+                        <a href="https://cisstat.org/" class="s-slider__item" target="_blank"><img src="674x526j46rk6skxt3m0p1rnp3ww0gpi.jpg" alt=""></a>
+                        <a href="http://www.eurasiancommission.org/" class="s-slider__item" target="_blank"><img src="7369b374905c4674820eebd77b4188bd.png" alt=""></a>
+                        <a href="http://www.belarus.by/" class="s-slider__item" target="_blank"><img src="6fcbb1e6325061ae20ff1bf490033af3.png" alt=""></a>
+                        <a href="http://www.belta.by/" class="s-slider__item" target="_blank"><img src="f03df32cd730296a916f26948cf98154.png" alt=""></a>
+                        <a href="https://www.mpt.gov.by/ru/biometricheskie-dokumenty-respubliki-belarus" class="s-slider__item" target="_blank"><img src="a31b6526951940bdafbe430e48fe5b2a.jpg" alt=""></a>
+                    </div>
+    </div>
+</div>
+    <div class="wrap">
+        <a href="https://www.artismedia.by" target="_blank" class="developer"> <span style="display:none;">Поддержка сайта —&nbsp;</span>
+            <b style="display:none;">ArtisMedia</b></a>
+        <a href="http://astronim.by/" target="_blank" class="developer"><span style="display:none;">Разработка сайта —&nbsp;</span><b style="display:none;">Астроним</b></a>
+
+    </div>
+</footer>
+
+
+<!-- mobile -->
+
+<div class="mobile-topline">
+    <div class="h-logo">
+        <div class="h-logo-img"><img src="logo-main.png" alt=""></div>
+        <div class="h-logo-txt"><span>Национальный статистический</span> комитет Республики Беларусь</div>
+    </div>
+    <div class="mobile-topline__right">
+
+        <div class="mobile-search-wrp">
+            <button class="mobile-search-btn js-show-search-btn"><i class="ico-search"></i></button>
+            	<form action="/search/index.php" class="mobile-search" id="title-search-mobile">
+
+		<div class="mobile-search__field-wrp">
+			<input id="title-search-input-mobile" class="mobile-search__field" type="search" placeholder="поиск по сайту" name="q" value="" size="40" maxlength="50">
+			<span id="voice-trigger">
+                <svg width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 58 58" style="enable-background:new 0 0 58 58;" xml:space="preserve">
+                    <g>
+                        <path d="M44,28c-0.552,0-1,0.447-1,1v6c0,7.72-6.28,14-14,14s-14-6.28-14-14v-6c0-0.553-0.448-1-1-1s-1,0.447-1,1v6   c0,8.485,6.644,15.429,15,15.949V56h-5c-0.552,0-1,0.447-1,1s0.448,1,1,1h12c0.552,0,1-0.447,1-1s-0.448-1-1-1h-5v-5.051   c8.356-0.52,15-7.465,15-15.949v-6C45,28.447,44.552,28,44,28z"></path>
+                        <path d="M29,46c6.065,0,11-4.935,11-11V11c0-6.065-4.935-11-11-11S18,4.935,18,11v24C18,41.065,22.935,46,29,46z M20,11   c0-4.963,4.038-9,9-9s9,4.037,9,9v24c0,4.963-4.038,9-9,9s-9-4.037-9-9V11z"></path>
+                    </g>
+                </svg>
+            </span>
+			<button class="search-submit" name="s" type="submit"><i class="ico-search"></i></button>
+			<!--<div class="search-submit" onclick="$('.search.mobile').submit();"><input name="s" type="submit" value="" /></div>-->
+		</div>
+	</form>
+        </div>
+        <a href="?special_version=Y" target="_blank" class="blind-mob"><img src="../fonts/eye-close-up.svg" alt=""></a>
+        <div class="mobile_b-lang b-lang">
+<a href="/en/"><span>Eng</span></a>
+	<a href="/by/"><span>Бел</span></a>
+</div>        <div class="h-sidemenu"><span></span></div>
+    </div>
+</div>
+
+<header class="mobile-header">
+    <div class="region-select-mobile">
+        <div class="region-select-mobile__ttl js-region-select"><i class="ico-regions"></i><span>Региональные сайты</span><i class="ico-arrow-down"></i></div>
+        <ul class="b-related b-related_mobile js-related-mobile">
+            <li class="active"><span><i class="ico-check"></i>Белстат</span></li>
+            <li><a href="http://minsk-city.belstat.gov.by">ГСУ г.Минска</a></li>
+            <li><a href="http://minsk.belstat.gov.by">ГСУ Минской обл.</a></li>
+            <li><a href="http://brest.belstat.gov.by">ГСУ Брестской обл.</a></li>
+            <li><a href="http://vitebsk.belstat.gov.by">ГСУ Витебской обл.</a></li>
+            <li><a href="http://gomel.belstat.gov.by">ГСУ Гомельской обл.</a></li>
+            <li><a href="http://grodno.belstat.gov.by">ГСУ Гродненской обл.</a></li>
+            <li><a href="http://mogilev.belstat.gov.by">ГСУ Могилёвской обл.</a></li>
+        </ul>
+    </div>
+    
+
+    <ul class="h-menu">
+
+                <li><a href="/ofitsialnaya-statistika/">Официальная статистика</a><div class="submenu-container"><div class="submenu"><ul><li><a href="/ofitsialnaya-statistika/osnovnye-pokazateli-po-respublike-belarus/">Основные показатели по Республике Беларусь</a><ul><li><a href="/upload-belstat/upload-belstat-excel/Oficial_statistika/2024/rus_ekspress-informacia_04_2024.xlsx">Основные социально-экономические показатели по Республике Беларусь (.xlsx)</a></li><li><a href="/upload-belstat/upload-belstat-excel/Oficial_statistika/2024/osep_obl_2404.xlsx">Основные социально-экономические показатели по Республике Беларусь, областям и г.Минску (.xlsx)</a></li><li><a href="https://www.belstat.gov.by/ofitsialnaya-statistika/publications/izdania/public_bulletin/index_96971/">Социально-экономическое положение Республики Беларусь</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/">Демографическая и социальная статистика</a><ul><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/naselenie-i-migratsiya/">Население и миграция</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/trud/">Труд</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/obrazovanie/">Образование</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/zdravoohranenie_2/">Здравоохранение</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/uroven-zhizni-naseleniya/">Доходы и потребление</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/sotsialnaya-zaschita-nseleniya/">Социальная защита</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/zhilischnye-usloviya/">Жилищный фонд</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/pravonarusheniya/">Правосудие и правонарушения</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/ispolzovanie-sutochnogo-vremeni/">Использование времени</a></li><li><a href="/ofitsialnaya-statistika/solialnaya-sfera/kultura-sport-sredstva-massovoy-informatsii/">Культура, спорт, средства массовой информации</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/">Экономическая статистика</a><ul><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/natsionalnye-scheta/">Национальные счета</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/strukturnaja_statistika/">Структурная статистика, включая статистику малого и среднего предпринимательства</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/biznes-demografiya/">Бизнес-демография</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/selskoe-hozyaistvo/">Сельское, лесное и рыбное хозяйство</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/promyshlennost/">Промышленность</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/energeticheskaya-statistika/">Энергетика</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/investitsii-i-stroitelstvo/">Строительство и инвестиции в основной капитал</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/transport/">Транспорт</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/finansy-organizatsiy/">Финансы организаций</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/vnytrennia-torgovlya/">Внутренняя торговля и общественное питание</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/turizm/">Туризм</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/prochie-uslugi/">Прочие услуги</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/tseny/">Цены</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/stoimost-rabochey-sily/">Стоимость рабочей силы</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/nauka-i-innovatsii/">Наука и инновации</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/svyaz-i-informatsionno-kommunikatsionnye-tekhnologii/">Телекоммуникационная деятельность, почтовая и курьерская деятельность</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/inostrannye-investitsii/">Иностранные инвестиции</a></li><li><a href="/ofitsialnaya-statistika/realny-sector-ekonomiki/vneshnyaya-torgovlya/">Внешняя торговля</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/">Многоотраслевая статистика</a><ul><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/okruzhayuschaya-sreda/">Окружающая среда</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/statistika-malykh-territoriy/">Статистика малых территорий</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/uroven-zhizni-naseleniya/">Уровень жизни населения</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/gendernaya-statistika-i-statistika-otdelnykh-grupp-naseleniya/">Гендерная статистика и статистика отдельных групп населения</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/informatsionno-telekommunikatsionnye-tekhnologii/">Информационно-коммуникационные технологии</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/statistika-predprinimatelstva/">Статистика предпринимательства</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/perepis-naseleniya/">Перепись населения</a></li><li><a href="/ofitsialnaya-statistika/makroekonomika-i-okruzhayushchaya-sreda/pokazateli-dostizheniya-tseley-ustoychivogo-razvitiya/">Показатели достижения Целей устойчивого развития</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/polzovatelyam/">Пользователям</a><ul><li><a href="https://docs.google.com/forms/d/1lbDHtQW851hY3XeDPDis4tPCnigK2BXxIqC5r5GPrSg/viewform">Анкета пользователя</a></li><li><a href="/ofitsialnaya-statistika/polzovatelyam/poryadok-rasprostraneniya-ofitsialnoy-statisticheskoy-informatsii/">Порядок распространения официальной статистической информации</a></li><li><a href="/calendar/">Календарь пользователя</a></li><li><a href="https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/oficial_statistika/2024/Res_anketa_polsovatela.pdf">Результаты Анкеты пользователя</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/publications/">Публикации</a><ul><li><a href="/ofitsialnaya-statistika/publications/izdania/">Статистические издания</a></li><li><a href="/ofitsialnaya-statistika/publications/katalog/">Каталог статистических изданий</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/ofitsialnaya-statisticheskaya-informatsiya-gosudarstvennykh-organov-i-organizatsiy-respubliki-belaru/">Официальная статистическая информация государственных органов и организаций Республики Беларусь</a><ul><li><a href="http://www.mas.by/ru/otchet_necent/">Министерство архитектуры и строительства Республики Беларусь</a></li><li><a href="http://www.minzdrav.gov.by/ru/dlya-spetsialistov/statisticheskaya-otchetnost/index.php">Министерство здравоохранения Республики Беларусь</a></li><li><a href="https://kultura.by/ru/ofic_statistika-ru/">Министерство культуры Республики Беларусь</a></li><li><a href="http://www.mlh.by/documents/">Министерство лесного хозяйства Республики Беларусь</a></li><li><a href="https://edu.gov.by/statistics/">Министерство образования Республики Беларусь</a></li><li><a href="http://www.minpriroda.gov.by/ru/statistika/">Министерство природных ресурсов и окружающей среды Республики Беларусь</a></li><li><a href="http://www.mpt.gov.by/ru/oficialnaya-statisticheskaya#">Министерство связи и информатизации Республики Беларусь</a></li><li><a href="https://mintrans.gov.by/ru/statistika/">Министерство транспорта и коммуникаций Республики Беларусь</a></li><li><a href="https://mintrud.gov.by/ru/inie-voprosi-ru">Министерство труда и социальной защиты Республики Беларусь</a></li><li><a href="https://minfin.gov.by/ru/gfs/">Министерство финансов Республики Беларусь</a></li><li><a href="http://energoeffekt.gov.by/statistics">Государственный комитет по стандартизации Республики Беларусь</a></li><li><a href="http://www.nbrb.by/statistics/MonetaryStat/InsuranceOrgSurvey">Национальный банк Республики Беларусь</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/bazy-dannyh/">Базы данных</a><ul><li><a href="https://census.belstat.gov.by/">Итоговые данные переписей населения Республики Беларусь</a></li><li><a href="http://dataportal.belstat.gov.by/">Информационно-аналитическая система распространения официальной статистической информации</a></li><li><a href="http://sdgplatform.belstat.gov.by/sites/belstatfront/home.html">Национальная платформа представления отчетности по показателям Целей устойчивого развития (ЦУР)</a></li><li><a href="http://www.childrenportal.belstat.gov.by/">Универсальный веб-портал статистических данных о детях</a></li><li><a href="http://gender.belstat.gov.by/home/">Веб-портал "Гендерная статистика"</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/">ССРД МВФ</a><ul><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/natsionalnaya-stranitsa-svodnyh-dannyh/">Национальная страница сводных данных</a></li><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/tablitsy-svodnyh-dannyh/">Таблицы сводных данных</a></li><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/metadannye/">Метаданные</a></li><li><a href="/ofitsialnaya-statistika/ssrd-mvf_2/kalendar-vypuska-dannyh/">Календарь выпуска данных</a></li></ul></li></ul><ul><li><a href="/ofitsialnaya-statistika/indikatory-dostoynogo-truda/">Индикаторы достойного труда</a><ul><li><a href="/upload-belstat/upload-belstat-pdf/oficial_statistika/Ob_ind_dost_truda.pdf">Об индикаторах достойного труда (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-word/Oficial_statistika/Perechen_indikatorov_dostojnogo_truda-230713.doc">Перечень индикаторов достойного труда (.doc)</a></li><li><a href="/upload-belstat/upload-belstat-word/Oficial_statistika/Perech_pokaz_DT-230713.doc">Перечень ключевых показателей системы индикаторов достойного труда (.doc)</a></li></ul></li></ul></div></div></li><li><a href="/o-belstate_2/">О Белстате</a><div class="submenu-container"><div class="submenu"><ul><li><a href="/o-belstate_2/sistema-belstata/">Система Белстата</a><ul><li><a href="/o-belstate_2/sistema-belstata/tsentralnyi-apparat-belstata_4/">Структура центрального аппарата Белстата</a></li><li><a href="/o-belstate_2/sistema-belstata/rukovodstvo-belstata/">Руководство Белстата</a></li><li><a href="/o-belstate_2/sistema-belstata/territorialnye-organy-gosudarstvennoi-statistiki/">Территориальные органы государственной статистики</a></li><li><a href="/o-belstate_2/sistema-belstata/gosudarstvennye-organizatsii-podchinennye-belstatu/">Государственные организации, подчиненные Белстату</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/">Правовые основы государственной статистики Республики Беларусь</a><ul><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/zakon-respubliki-belarus-o-gosudarstvennoi-statist/">Закон Республики&nbsp;Беларусь «О&nbsp;государственной статистике»</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/polozhenie-o-natsionalnom-statisticheskom-komitete/">Положение о Белстате</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/rukovodstvo-po-natsionalnoi-modeli-proizvodstva-ofitsialnoi-statisticheskoi-informatsii/">Руководство по национальной модели производства официальной статистической информации</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/privacy_policy-240314.pdf">Политика по обеспечению статистической конфиденциальности (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/politika_rasprosrtraneniya_osi.pdf">Политика распространения официальной статистической информации (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/politica_peresm.pdf">Политика пересмотра официальной статистической информации (.pdf)</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/instruktsiya-o-poryadke-predstavleniya-pervichnykh-statisticheskikh-dannykh/">Инструкция о порядке представления первичных статистических данных</a></li><li><a href="https://www.belstat.gov.by/Отчет о выполнении Плана мероприятий по реализации Стратегии развития государственной статистики">Отчет о выполнении Плана мероприятий по реализации Стратегии развития государственной статистики (.pdf)</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/mezhvedomstvennyy-sovet-po-gosudarstvennoy-statistike/">Межведомственный совет по государственной статистике</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/informatsionnoe-vzaimodeystvie-s-gosudarstvennymi-organami/">Информационное взаимодействие с государственными органами</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/pravovoy-monitoring-v-otnoshenii-zakona-respubliki-belarus-o-gosudarstvennoy-statistike/">Правовой мониторинг в&nbsp;отношении Закона&nbsp;Республики&nbsp;Беларусь «О&nbsp;государственной&nbsp;статистике»</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/pravovoy-monitoring-postanovleniya-natsionalnogo-statisticheskogo-komiteta-respubliki-belarus-ob-utv/">Правовой мониторинг в отношении постановления Национального статистического комитета Республики Беларусь от 28 августа 2015 г. № 100 «Об утверждении Инструкции о порядке представления первичных статистических данных»</a></li><li><a href="/o-belstate_2/pravovye-osnovy-gosudarstvennoi-statistiki-respubl/informatsiya-o-provedenii-publichnogo-obsuzhdeniya-proekta-zakona-respubliki-belarus-ob-izmenenii-za/">Информация о&nbsp;проведении публичного обсуждения проекта Закона Республики&nbsp;Беларусь «Об изменении Закона Республики&nbsp;Беларусь «О государственной статистике»</a></li><li><a href="/ofitsialnaya-statistika/polzovatelyam/poryadok-rasprostraneniya-ofitsialnoy-statisticheskoy-informatsii/">Порядок распространения официальной статистической информации</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/planirovanie-i-koordinatsiya-natsionalnoy-statisticheskoy-sistemy/">Планирование и координация национальной статистической системы</a><ul><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/Stategija_2025-221122.pdf">Стратегия развития государственной статистики на период до 2025 года (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/Programma_2024.pdf">Программа статистических работ на&nbsp;2024&nbsp;год (.pdf)</a></li><li><a href="/o-belstate_2/planirovanie-i-koordinatsiya-natsionalnoy-statisticheskoy-sistemy/plan-nauchno-metodologicheskoy-raboty-belstata/">План научно-методологической работы Белстата на 2024 год</a></li><li><a href="/o-belstate_2/planirovanie-i-koordinatsiya-natsionalnoy-statisticheskoy-sistemy/nauchno-metodologicheskiy-sovet-belstata/">Научно-методологический совет Белстата</a></li><li><a href="/o-belstate_2/planirovanie-i-koordinatsiya-natsionalnoy-statisticheskoy-sistemy/prikaz-belstata-o-vedenii-gosudarstvennoy-statistiki-v-2022-godu/">Приказ Белстата «О ведении государственной статистики в 2024 году»</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/sistema-menedzhmenta-kachestva/">Система менеджмента качества</a><ul><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/Missia_Bidenie_2021.pdf">Миссия. Видение (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/Politika-kachestva_2024.pdf">Политика в области качества (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-pdf/o-belstate/RK_SMK_04-2022.pdf">Руководство по качеству (.pdf)</a></li><li><a href="https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/o-belstate/sertifikat_stb_iso_9001.pdf">Сертификат соответствия системы менеджмента качества требованиям СТБ&nbsp;ISO&nbsp;9001-2015</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/">Международное сотрудничество</a><ul><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/mezhdunarodnye-dogovora-o-sotrudnichestve/">Международные договоры</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/statisticheskii-sovet">Статистический совет Белстата и Росстата</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/mezhdunarodnye-meropriyatiya/">Международные события</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/otsenki-mezhdunarodnyh-ekspertov/">Оценки международных экспертов</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/sotrudnichestvo-v-ramkakh-evraziyskogo-ekonomicheskogo-soyuza/">Сотрудничество в рамках Евразийского экономического союза</a></li><li><a href="/o-belstate_2/mezhdunarodnoe-sotrudnichestvo/mezhdunarodnye-proekty/">Международные проекты</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/">История белорусской государственной статистики</a><ul><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/etapy/">Исторические даты развития белорусской государственной статистики</a></li><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/istoricheskii-ocherk-stanovleniya-i-razvitiya-belorusskoi-gosudarstvennoi-statistiki/">Исторический очерк становления и развития белорусской государственной статистики  </a></li><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/rukovoditeli-tsentralnyh-organov-belorusskoi-gosudarstvennoi-statistiki/">Руководители центральных органов белорусской государственной статистики</a></li><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/istoriya-statistiki/">Лента времени белорусской статистики</a></li><li><a href="https://www.belstat.gov.by/ofitsialnaya-statistika/publications/izdania/public_compilation/index_17744/">Статистика Беларуси</a></li><li><a href="/o-belstate_2/istoriya-belorusskoi-gosudarstvennoi-statistiki/100-let-organam-gosudarstvennoy-statistiki-belarusi/">100 лет органам государственной статистики Беларуси</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/novosti-i-meropriyatiya/">Новости и мероприятия</a><ul><li><a href="/o-belstate_2/novosti-i-meropriyatiya/novosti/">Новости</a></li><li><a href="/o-belstate_2/novosti-i-meropriyatiya/meropriyatiya/">Мероприятия</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/vakansii/">Вакансии </a></li></ul><ul><li><a href="/o-belstate_2/adres-i-kontaktnaya-informatsiya/">Контакты (адрес, режим работы и контактная информация)</a></li></ul><ul><li><a href="/o-belstate_2/links/">Полезные ссылки</a><ul><li><a href="/o-belstate_2/links/statsluzhby/">Статистические службы иностранных государств и международные организации</a></li><li><a href="http://www.catalog.gov.by/">Информационные ресурсы Республики Беларусь</a></li></ul></li></ul><ul><li><a href="/o-belstate_2/zakupki/">Закупки</a></li></ul><ul><li><a href="/o-belstate_2/god-kachestva/">Год качества</a></li></ul></div></div></li><li><a href="/metodologiya/">Методология</a><div class="submenu-container"><div class="submenu"><ul><li><a href="/metodologiya/metodiki-po-formirovaniyu-i-raschetu-statistichesk/">Методики по формированию и расчету статистических показателей</a></li></ul><ul><li><a href="/metodologiya/instruktsii-po-organizatsii-i-provedeniyu-gosudars/">Инструкции по организации и проведению государственных статистических наблюдений</a></li></ul><ul><li><a href="/metodologiya/kratkiy-glossariy-statisticheskikh-terminov/">Краткий глоссарий статистических терминов</a></li></ul><ul><li><a href="/metodologiya/metodologicheskie-polozheniya-po-statistike/">Методологические положения по статистике</a></li></ul><ul><li><a href="/metodologiya/belstat-obyasnit/">Белстат объяснит</a><ul><li><a href="/metodologiya/belstat-obyasnit/ob-inflyatsii/">Об инфляции</a></li><li><a href="/metodologiya/belstat-obyasnit/o-sredney-zarabotnoy-plate/">О средней заработной плате</a></li><li><a href="/metodologiya/belstat-obyasnit/zachem-nuzhna-perepis-naseleniya/">О переписи населения</a></li></ul></li></ul></div></div></li><li><a href="/klassifikatory/">Классификаторы</a><div class="submenu-container"><div class="submenu"><ul><li><a href="/klassifikatory/obschaya-informatsiya-o-klassifikatorah/">Общая информация о классификаторах</a></li></ul><ul><li><a href="/klassifikatory/perechen-klassifikatorov-ispolzuemyh-organami-gosudarstvennoi-statistiki/">Перечень классификаторов, используемых органами государственной статистики</a></li></ul><ul><li><a href="/klassifikatory/informatsiya-o-provodimykh-rabotakh-po-obshchegosudarstvennym-klassifikatoram/">Информация о&nbsp;проводимых работах по&nbsp;общегосударственным классификаторам</a></li></ul><ul><li><a href="/klassifikatory/statisticheskie-klassifikatory/">Статистические классификаторы</a><ul><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-00-001-2020-organy-gosudarstvennoy-vlasti-i-upravleniya-skogu/">СК&nbsp;00.001-2020 "Органы государственной власти и управления" (СКОГУ) (с изменениями) (не применяется с 1 января 2023 г.)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-00-007-2015-institutsionalnye-edinitsy-po-sektoram-ekonomiki-kies-s-izmeneniyami/">CK 00.007-2015 "Институциональные единицы по секторам экономики" (КИЕС) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-00-010-2017/">СК 00.010-2017 “Государственная статистическая деятельность” (КСД)  (с изменениями)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/SK_00_013_2022_.docx">СК 00.013-2022 “Основные промышленные группы” (СКОПГ)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-06-009-2016-prichiny-smerti-skps/">СК 06.009-2016 "Причины смерти" (СКПС) (с изменениями)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/SK_07_008_2020.doc">СК 07.008-2020 "Расходы домашних хозяйств" (СКРДХ) (.doc)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/statisticheskii-klassifikator-sk-06-002-2015-selskohozyaistvennaya-produktsiya-skshp-vvoditsya-v-deistvie/">СК 21.002-2015 "Сельскохозяйственная продукция" (СКСХП) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-05-006-2015/">CK 25.006-2015 "Промышленная продукция" (СКПП) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-32-003-2019-tovary-optovoy-torgovli-sktot/">СК 32.003-2019 "Товары оптовой торговли" (СКТОТ) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/sk-33-004-2020-tovary-roznichnoy-torgovli-sktrt-doc/">CK 33.004-2020 "Товары розничной торговли" (СКТРТ) (с изменениями)</a></li><li><a href="/klassifikatory/statisticheskie-klassifikatory/statisticheskii-klassifikator-sk-27-005-2015-platnye-uslugi-naseleniyu-skpun-vvodittsya-v-deistvie-s-29-yanvarya-2016-g/">СК 36.005-2015 "Платные услуги населению" (СКПУН) (с изменениями)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/CK_45_012_2022.docx">CK 45.012-2022 «Виды услуг внешней торговли» (ВУВТ)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/sk_55.011_2021.doc">СК 55.011-2021 "Виды природоохранной деятельности" (СКПД) (.doc)</a></li></ul></li></ul><ul><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/">Общегосударственные классификаторы Республики Беларусь</a><ul><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/okrb-002-2019-formy-i-vidy-sobstvennosti-okfs/">ОКРБ 002-2019 "Формы и виды собственности" (ОКФС)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/okrb-004-2014-organy-gosudarstvennoy-vlasti-i-upravleniya-okogu/">ОКРБ 004-2014 "Органы государственной власти и управления" (ОКОГУ)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/obschegosudarstvennyi-klassifikator-okrb-005-2011-vidy-ekonomicheskoi-deyatelnosti/">ОКРБ 005-2011 "Виды экономической деятельности" (ОКЭД)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/obschegosudarstvennyi-klassifikator-respubliki-belarus-okrb-007-2012-klassifikator-produktsii-po-vidam-ekonomicheskoi-deyatelnosti-okp-rb/">ОКРБ 007-2012 "Классификатор продукции по видам экономической деятельности" (ОКП РБ)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/strany-mira-oksm/">ОКРБ 017-99 "Страны мира" (ОКСМ)</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/okrb-019-2013-organizatsionno-pravovye-formy-okopf/">ОКРБ 019-2013 "Организационно-правовые формы" (ОКОПФ)</a></li><li><a href="http://www.belstat.gov.by/obraschenie/elektronnye-obrascheniy/">Задать вопрос о классификации видов экономической деятельности</a></li><li><a href="/klassifikatory/obschegosudarstvennye-klassifikatory-respubliki-belarus-ispolzuemye-dlya-zapolneniya-gosudarstvennoi-statisticheskoi-otchetnosti/telefony-dlya-konsultatsiy-po-voprosam-opredeleniya-vida-ekonomicheskoy-deyatelnosti-i-statistichesk/">Телефоны для получения разъяснений по вопросам определения кодов видов экономической деятельности и применения общегосударственных классификаторов для статистических целей</a></li></ul></li></ul><ul><li><a href="/klassifikatory/perekhodnye-klyuchi-sobiratelnye-gruppirovki/">Переходные ключи, собирательные группировки</a><ul><li><a href="/klassifikatory/perekhodnye-klyuchi-sobiratelnye-gruppirovki/perekhodnye-klyuchi-okrb-005-2011-okrb-005-2006/">Переходные ключи от Общегосударственного классификатора Республики Беларусь ОКРБ 005-2011 "Виды экономической деятельности" к Общегосударственному классификатору Республики Беларусь ОКРБ 005-2006 "Виды экономической деятельности" (с изменениями)</a></li><li><a href="https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/klassifikatory/sobir.-grup_OKED005-2011_izm2.pdf">Собирательные группировки по видам экономической деятельности в соответствии с Общегосударственным классификатором Республики Беларусь ОКРБ 005-2011 "Виды экономической деятельности" (.pdf)</a></li><li><a href="https://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/klassifikatory/sobir_grupp_TNVED_EAES-221219.pdf">Собирательные группировки товаров в соответствии с единой Товарной номенклатурой внешнеэкономической деятельности Евразийского экономического союза (.pdf)</a></li><li><a href="http://www.belstat.gov.by/upload-belstat/upload-belstat-pdf/klassifikatory/sobir_grupp_TNVED_IKT-221219.pdf">Собирательные группировки товаров и услуг сферы ИКТ для статистики внешней торговли товарами, внешней торговли услугами (.pdf)</a></li><li><a href="/upload-belstat/upload-belstat-word/klassifikator/PK_OKFS-200401.docx">Переходные ключи от&nbsp;общегосударственного классификатора Республики&nbsp;Беларусь ОКРБ&nbsp;002-2019 "Формы и&nbsp;виды собственности" к&nbsp;общегосударственному классификатору Республики&nbsp;Беларусь ОКРБ&nbsp;002-99 "Формы собственности" (.docx)</a></li></ul></li></ul></div></div></li><li><a href="/informatsiya-dlya-respondenta/">Респондентам</a><div class="submenu-container"><div class="submenu"><ul><li><a href="/informatsiya-dlya-respondenta/gosudarstvennye-statisticheskie-nablyudeniya/">Государственные статистические наблюдения</a><ul><li><a href="/informatsiya-dlya-respondenta/gosudarstvennye-statisticheskie-nablyudeniya/formy-gosudarstvennyh-statisticheskih-nablyuden_2/">Бланки форм государственной статистической отчетности, указания по их заполнению, постановления</a></li><li><a href="/informatsiya-dlya-respondenta/gosudarstvennye-statisticheskie-nablyudeniya/sovershenstvovanie-form-gosudarstvennyh-statistich/">Совершенствование форм государственных статистических наблюдений</a></li></ul></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/vnov-zaregistrirovannym-organizatsim/">Информация для вновь созданных организаций</a></li></ul><ul><li><a href="/respondent-calendar/">Календарь респондента</a></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/tipovye-perechni-form-tsentralizovannykh-gosudarstvennykh-statisticheskikh-nablyudeniy/">Типовые перечни форм централизованных государственных статистических наблюдений</a></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/elektronnaya-otchetnost/">Электронная отчетность</a><ul><li><a href="/informatsiya-dlya-respondenta/elektronnaya-otchetnost/elektronnyy-respondent-on-line/">«Электронный респондент» онлайн</a></li><li><a href="/informatsiya-dlya-respondenta/elektronnaya-otchetnost/vopros-otvet/">Вопрос-Ответ</a></li><li><a href="/informatsiya-dlya-respondenta/elektronnaya-otchetnost/modul-distantsionnoy-podderzhki-respondentov/">Модуль дистанционной поддержки респондентов</a></li></ul></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/">Выборочные обследования</a><ul><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-domashnih-hozyaistv-po-urovnyu-zhizni/">Выборочное обследование домашних хозяйств по уровню жизни</a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-lichnyh-podsobnyh-hozyaistv-grazhdan-postoyanno-prozhivayuschih-v-selskoi-mestnosti/">Выборочное обследование личных подсобных хозяйств граждан, постоянно проживающих в сельской местности</a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-domashnikh-khozyaystv-v-tselyakh-izucheniya-ispolzovaniya-sutochnogo-vremen/">Выборочное обследование домашних хозяйств в целях изучения использования суточного фонда времени населением</a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/mnogoindikatornoe-klasternoe-obsledovanie-po-otsenke-polozheniya-detei-i-zhenschin/">Многоиндикаторное кластерное обследование для оценки положения детей и женщин </a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-domashnikh-khozyaystv-v-tselyakh-kompleksnoy-otsenki-polozheniya-lits-s-ogr/">Выборочное обследование домашних хозяйств в целях комплексной оценки положения лиц с ограниченными возможностями</a></li><li><a href="/informatsiya-dlya-respondenta/vyborochnye-obsledovaniya/vyborochnoe-obsledovanie-domashnikh-khozyaystv-v-tselyakh-izucheniya-problem-zanyatosti-naseleniya/">Выборочное обследование домашних хозяйств в целях изучения проблем занятости населения</a></li></ul></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/kriterii-otsenki-stepeni-riska/">Критерии оценки степени риска</a><ul><li><a href="/upload-belstat/upload-belstat-word/Respondent/№_39_от_15.02.2018.docx">Приказ Национального статистического комитета Республики Беларусь от 15 февраля 2018 г. № 39 "Об утверждении критериев оценки степени риска для отбора проверяемых субъектов при проведении выборочной проверки" (.docx)</a></li><li><a href="/upload-belstat/upload-belstat-word/Respondent/Kriterii_2023.docx">Критерии оценки степени риска для отбора проверяемых субъектов  при проведении выборочной проверки (.docx)</a></li></ul></li></ul><ul><li><a href="/informatsiya-dlya-respondenta/kontaktnaya-informatsiya/">Контактная информация</a><ul><li><a href="/informatsiya-dlya-respondenta/kontaktnaya-informatsiya/kontaktnaya-informatsiya-po-tekhnicheskoy-podderzhke/">по технической поддержке (настройка и функционирование программного обеспечения)</a></li><li><a href="/informatsiya-dlya-respondenta/kontaktnaya-informatsiya/kontaktnaya-informatsiya-po-metodologicheskoy-podderzhke/">по методологической поддержке (составление и сроки предоставления отчетов, контроль в программном обеспечении "Электронный респондент")</a></li></ul></li></ul></div></div></li><li><a href="/obraschenie/">Обращения</a><div class="submenu-container"><div class="submenu"><ul><li><a href="/obraschenie/nomera-telefonov-goryachih-linii-belstata-i-teritorialnyh-organov-statistiki/">Нoмeрa тeлeфoнoв "гoрячих линий", телефонов доверия и справочных служб</a></li></ul><ul><li><a href="/obraschenie/grafiki-provedeniya-pryamyh-telefonnyi-linii/">Графики проведения прямых телефонных линий</a><ul><li><a href="/obraschenie/grafiki-provedeniya-pryamyh-telefonnyi-linii/grafiki-provedeniya-pryamyh-telefonnyi-linii-predsedatelem-natsionalnogo-statisticheskogo-komiteta-respubliki-belarus-i-ego-zamestitelyami/">График проведения прямых телефонных линий Председателем Национального статистического комитета Республики Беларусь и его заместителями</a></li><li><a href="/obraschenie/grafiki-provedeniya-pryamyh-telefonnyi-linii/grafik-provedeniya-pryamykh-telefonnykh-liniy-rukovoditelyami-strukturnykh-podrazdeleniy/">График проведения прямых телефонных линий руководителями структурных подразделений Белстата</a></li></ul></li></ul><ul><li><a href="/obraschenie/elektronnye-obrascheniy/">Электронные обращения</a></li></ul><ul><li><a href="/obraschenie/perechen-administrativnyh-protsedur/">Перечень административных процедур, осуществляемых по заявлениям граждан</a></li></ul><ul><li><a href="/obraschenie/poryadok-rassmotreniya-obraschenii-grazhdan-v-tom-chisle-individualnyh-predprinimatelei-i-yuridicheskih-lits/">Порядок рассмотрения обращений граждан, в том числе индивидуальных предпринимателей, и юридических лиц</a></li></ul><ul><li><a href="/obraschenie/poryadok-lichnogo-priema-grazhdan-v-tom-chisle-individualnyh-predprinimatelei-ih-predstavitelei-predstavitelei-yuridicheskih-lits-rukovodstvom-belstata/">Порядок личного приема граждан, в том числе индивидуальных предпринимателей, их представителей, представителей юридических лиц</a></li></ul><ul><li><a href="/obraschenie/grafik-priema-grazhdan-rukovodstvom-belstata/">График  личного приема граждан, в том числе индивидуальных предпринимателей, их представителей, представителей юридических лиц руководством Белстата</a></li></ul></div></div></li><li><a href="/o-belstate_2/adres-i-kontaktnaya-informatsiya/">Контакты</a>
+
+        
+        </li> </ul>
+
+
+        <div class="h-about">
+        <div class="h-about-logo"><img src="logo-sub.png" alt=""></div>
+        <div class="h-about-text">
+            220070, г.Минск, Партизанский&nbsp;проспект,&nbsp;12<br>
+<a href="mailto:belstat@belstat.gov.by">belstat@belstat.gov.by</a><br>
+
+<a href="https://t.me/belstat_by" target="_blank"><i class="ico-tg24"></i></a>
+<span class="print-social">Telegram https://t.me/belstat_by</span>
+
+<a href="https://www.facebook.com/belstat" target="_blank"><i class="ico-fb24"></i></a>
+<span class="print-social">Facebook https://www.facebook.com/belstat</span>
+
+<a href="https://twitter.com/belstat_by" target="_blank"><i class="ico-x24"></i></a>
+<span class="print-social">X https://twitter.com/belstat_by</span>        </div>
+    </div>
+    
+<ul class="topmenu topmenu_mobile">
+
+			<li><a href="/obraschenie/elektronnye-obrascheniy/">Обратная связь</a></li>
+		
+			<li><a href="/subscribe/">Подписаться на рассылку</a></li>
+		
+			<li><a href="http://e-respondent.belstat.gov.by/">ЭЛЕКТРОННЫЙ РЕСПОНДЕНТ</a></li>
+		
+
+</ul>
+    <div class="mobile-h-block">
+        
+    <div class="aside__slider">
+                            <div class="promo__item">
+                    <i class="icon" style="background-image: url('3bee1b925ba63206589afe1ade67cd8a.png')"></i>
+                    <div>
+                        <p class="promo__title"><a href="http://www.belstat.gov.by/ofitsialnaya-statistika/realny-sector-ekonomiki/natsionalnye-scheta/">ВВП в сопоставимых ценах (январь - апрель 2024&nbsp;г.)</a></p>
+                        <p class="promo__num">105,1%</p>
+                        <p>(январь - апрель 2023&nbsp;г. = 100%)</p>
+                    </div>
+                </div>
+                            <div class="promo__item">
+                    <i class="icon" style="background-image: url('55f7ae3b391a6ceb05e28a3857cba6a6.png')"></i>
+                    <div>
+                        <p class="promo__title"><a href="http://www.belstat.gov.by/ofitsialnaya-statistika/realny-sector-ekonomiki/natsionalnye-scheta/">ВВП в текущих ценах (январь - апрель 2024&nbsp;г.)</a></p>
+                        <p class="promo__num">73</p>
+                        <p>млрд. рублей</p>
+                    </div>
+                </div>
+                            <div class="promo__item">
+                    <i class="icon" style="background-image: url('8666117933343b9654a1e8534a801fc8.png')"></i>
+                    <div>
+                        <p class="promo__title"><a href="https://www.belstat.gov.by/ofitsialnaya-statistika/solialnaya-sfera/naselenie-i-migratsiya/">Численность населения Республики&nbsp;Беларусь (на&nbsp;1&nbsp;января 2024&nbsp;г.)</a></p>
+                        <p class="promo__num">9 156,0</p>
+                        <p>тыс. человек</p>
+                    </div>
+                </div>
+                            <div class="promo__item">
+                    <i class="icon" style="background-image: url('207d57a860b45da41eaa71312d42e69f.png')"></i>
+                    <div>
+                        <p class="promo__title"><a href="http://www.belstat.gov.by/ofitsialnaya-statistika/realny-sector-ekonomiki/finansy-organizatsiy/">Рентабельность продаж (январь&nbsp;– март 2024&nbsp;г.)</a></p>
+                        <p class="promo__num">6,3%</p>
+                        <p></p>
+                    </div>
+                </div>
+                            <div class="promo__item">
+                    <i class="icon" style="background-image: url('ceb87ada148edf998ed6e4ab7c980975.png')"></i>
+                    <div>
+                        <p class="promo__title"><a href="http://www.belstat.gov.by/ofitsialnaya-statistika/realny-sector-ekonomiki/tseny/potrebitelskie-tseny/">Индекс потребительских цен (апрель 2024&nbsp;г.)</a></p>
+                        <p class="promo__num">102,7%</p>
+                        <p>(декабрь 2023 г. = 100%)</p>
+                    </div>
+                </div>
+                            <div class="promo__item">
+                    <i class="icon" style="background-image: url('e0135720d5d1cd4a668c49cb28d91b3e.png')"></i>
+                    <div>
+                        <p class="promo__title"><a href="http://www.belstat.gov.by/ofitsialnaya-statistika/realny-sector-ekonomiki/stoimost-rabochey-sily/">Номинальная начисленная средняя заработная&nbsp;плата (апрель 2024&nbsp;г.)</a></p>
+                        <p class="promo__num">2 182,5</p>
+                        <p>рубля</p>
+                    </div>
+                </div>
+                </div>
+
+
+
+
+
+    </div>
+</header>
+
+
+<!--[if gte IE 9]>
+<style type="text/css">.gradient {
+    filter: none;
+}</style>
+<![endif]-->
+<!--[if lte IE 9]>
+<script type="text/javascript" src="/bitrix/templates/.default/js/html5shiv.min.js"></script>
+<link rel="stylesheet" media="screen" href="/bitrix/templates/.default/css/ie.css">
+<![endif]-->
+
+
+<!-- <script src="js/lib/modernizr-custom.js"></script> -->
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="/bitrix/templates/.default/js/lib/selectivizr-min.js"></script>
+<script type="text/javascript" src="/bitrix/templates/.default/js/lib/PIE_IE678.js"></script>
+<link rel="stylesheet" media="screen" href="css/ie8.css">
+<![endif]-->
+<script type="text/javascript" src="../js/jquery.debouncedresize.js"></script>
+<script type="text/javascript" src="../js/jquery.scrollTo.min.js"></script>
+<script type="text/javascript" src="../js/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="../js/imagesloaded.pkgd.min.js"></script>
+<script type="text/javascript" src="../js/css-global-order.min.js"></script>
+<script type="text/javascript" src="../js/jquery.placeholder.min.js"></script>
+
+<!-- slick -->
+<link rel="stylesheet" property="stylesheet" media="screen" href="../css/slick.css">
+<script type="text/javascript" src="../js/slick.min.js"></script>
+
+<script type="text/javascript" src="../js/common.js"></script>
+    <script type="text/javascript" src="../js/custom.js"></script>
+<script type="text/javascript" src="../js/jquery.form.js"></script>
+<script type="text/javascript" src="../js/forms_handler.js"></script>
+
+<script type="text/javascript" src="../js/mistakes.js"></script>
+<link href="../css/mistakes.css" rel="stylesheet" type="text/css">
+<script>
+    BX.addCustomEvent('OnEditorInitedBefore', function (toolbar) {
+        var _this = this;
+
+        // отучаю резать тэги
+        BX.addCustomEvent(this, 'OnGetParseRules', BX.proxy(function () {
+            //    _this.rules.tags.svg    = {};
+            _this.rules.tags.picture = {};
+        }, this));
+    });
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async="" src="../js_4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-17DHQQ7NS1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter50038555 = new Ya.Metrika2({
+                    id: 50038555,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true
+                });
+            } catch (e) {
+            }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () {
+                n.parentNode.insertBefore(s, n);
+            };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/50038555" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--<script src="/bitrix/templates/.default/js/datepicker/bootstrap-datepicker.js"></script>-->
+<!--<script src="/bitrix/templates/.default/js/datepicker/bootstrap-datepicker.ru.min.js"></script>-->
+
+<script src="../js/jquery.sumoselect.min.js"></script>
+<script src="../js/datepicker.min.js"></script>
+    <script src="../js/datepicker-script.js"></script>
+
+
+</body></html>

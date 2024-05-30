@@ -1,0 +1,103 @@
+* {
+	background:none !important;
+	color:#000 !important;
+}
+.l-aside,
+#bx_panel_userblock,
+.l-header .graph,
+.l-header .topline,
+.l-header .h-menu-container,
+.backnav,
+.l-footer,
+.mobile-header,
+.promo,
+.r-aside,
+.inside__menu, 
+.h-sert, 
+a.print, 
+.back-url, 
+.ico-tw, 
+.ico-fb, .print-hidden {
+	display: none;
+}
+.h-about-logo{
+	display: none;
+}
+.l-header{
+	border: none !important;
+	box-shadow: none !important;
+	background: none !important;
+	padding: 0;
+}
+.h-logo{
+	width: 40%;
+}
+.h-logo-img{
+	width: 20%;
+}
+.h-about-logo{
+	width: 12%;
+}
+.h-logo-img img,
+.h-about-logo img{
+	width: 100%;
+}
+.h-logo-txt{
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+}
+.h-about{
+	margin: 0;
+	padding: 0;
+	width: 60%;
+}
+.h-about-text{
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+}
+.wrap{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.l-main{
+	overflow: visible;
+	padding: 0;
+}
+.layout{
+	margin: 0;
+	padding: 20px 0 0;
+}
+table.belstat{
+	width: 100% !important;
+}
+table.belstat *{
+	font-size: 10px !important;
+	line-height: 14px !important;
+}
+.print, .pagination{
+    display: none;
+}
+h1{
+font-size: 20px;
+text-align: center;
+}
+table{
+width: 500px!important;
+}
+table td{
+    white-space: normal!important;
+font-size: 8px!important;
+border: 1px solid #2f812d!important;
+}
+table td:first-child{
+width: 50px!important;
+}
+.table  th, .table  td, .table  th, .table  td{padding: 4px;}
+a.hide.print {display: none;}
+p.print-copyright, span.print-social {display: inline-block !important;}
+
+
+
